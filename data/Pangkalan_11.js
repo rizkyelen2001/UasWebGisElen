@@ -1,0 +1,1 @@
+var json_Pangkalan_11 = {"type":"FeatureCollection","name":"Pangkalan_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"28","Pangkalan":"Pangkalan Gas LPG 3Kg"},"geometry":{"type":"Point","coordinates":[101.496811727690485,-0.58770323573182]}}]}

@@ -1,0 +1,1 @@
+var json_TempelBanR2_18 = {"type":"FeatureCollection","name":"TempelBanR2_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"15","Tempel R2":"Tempel Ban R2"},"geometry":{"type":"Point","coordinates":[101.496210155448239,-0.591023594188324]}}]}

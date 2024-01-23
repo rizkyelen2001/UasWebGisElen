@@ -1,0 +1,1 @@
+var json_RizkyElen_2 = {"type":"FeatureCollection","name":"RizkyElen_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"746","Elen":"Rumah Rizky Elen"},"geometry":{"type":"Point","coordinates":[101.496479189675739,-0.59005714394951]}}]}

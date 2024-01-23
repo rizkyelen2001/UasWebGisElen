@@ -1,0 +1,1 @@
+var json_RumahJalur_14 = {"type":"FeatureCollection","name":"RumahJalur_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"14","RM.Jalur":"Rumah Jalur Lintah Djalang (Petapahan)"},"geometry":{"type":"Point","coordinates":[101.504478244768634,-0.591606630894895]}}]}

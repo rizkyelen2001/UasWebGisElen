@@ -1,0 +1,1 @@
+var json_Masjid_7 = {"type":"FeatureCollection","name":"Masjid_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"987","masjid":"Masjid Muqarrabin"},"geometry":{"type":"Point","coordinates":[101.495163895384778,-0.591638930111696]}}]}
